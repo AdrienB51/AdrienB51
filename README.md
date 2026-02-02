@@ -1,6 +1,3 @@
-Introduce yourself with a profile README
-Share information about yourself by creating a profile README, which appears at the top of your profile page.
-
 - 👋 Hi, I’m @Arelad
 - 👀 I’m interested in being interested in something
 - 🌱 I’m currently learning how to be a person in this stupid world 
